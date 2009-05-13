@@ -36,14 +36,6 @@ import java.util.List;
 import java.util.Vector;
 import java.util.Map.Entry;
 
-import javax.swing.text.html.HTMLDocument.HTMLReader.BlockAction;
-
-import org.GNOME.Accessibility.__LoginHelperStub;
-
-import sun.font.CreatedFontTracker;
-
-import com.sun.org.apache.xerces.internal.impl.xs.SubstitutionGroupHandler;
-
 public class Shortcut {
 
 	/* offset 0x00 */
